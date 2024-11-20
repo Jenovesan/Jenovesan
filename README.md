@@ -52,6 +52,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=guilds&theme=onedark)](https://github.com/Jenovesan/Guilds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=datetime&theme=onedark)](https://github.com/Midas-Algo-Trading/datetime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=midas-python-public&theme=onedark)](https://github.com/Midas-Algo-Trading/midas-python-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=midas-public&theme=onedark)](https://github.com/Midas-Algo-Trading/midas-public)
 
 --- 
 ## :hammer_and_wrench: Some of My Favorite Tools (Couldn't do it without them...)
