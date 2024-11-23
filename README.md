@@ -52,11 +52,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=guilds&theme=onedark)](https://github.com/Jenovesan/Guilds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=datetime&theme=onedark)](https://github.com/Midas-Algo-Trading/datetime)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=midas-python-public&theme=onedark)](https://github.com/Midas-Algo-Trading/midas-python-public)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jenovesan&repo=midas-public&theme=onedark)](https://github.com/Midas-Algo-Trading/midas-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Midas-Algo-Trading&repo=midas-python-public&theme=onedark)](https://github.com/Midas-Algo-Trading/midas-python-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Midas-Algo-Trading&repo=stringhelpers&theme=onedark)](https://github.com/Midas-Algo-Trading/stringhelpers)
 
 --- 
-## :hammer_and_wrench: Some of My Favorite Tools (Couldn't do it without them...)
+## :hammer_and_wrench: Some of My Favorite Tools
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
